@@ -1,0 +1,15 @@
+
+body {
+  background-color: #B0C0F0;
+  color: #000020;
+  font-family: Verdana;
+}
+
+table {
+     border-collapse: collapse;
+ }
+
+td {
+    vertical-align: top;
+}
+
